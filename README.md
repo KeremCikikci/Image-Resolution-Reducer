@@ -1,0 +1,2 @@
+# Image Resolution Reducer
+ This project is designed for the purpose of obliterating details or reducing the resolution of any given image as per user specifications. The application operates through the console, requiring the user to input the name of the image for which resolution reduction is desired. Following that, the dimensions of the parcels are specified. Each parcel of the image is then painted with the most dominant color in that area.
